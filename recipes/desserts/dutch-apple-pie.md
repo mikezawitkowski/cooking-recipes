@@ -27,7 +27,7 @@ Inspired by this [Betty Crocker recipe](!https://www.bettycrocker.com/recipes/du
 ### Topping
 
 - 4 tablespoons butter (firm) preferably unsalted
-- 1 cup GF flour
+- 1/2 cup GF flour
 - 4 tablespoons packed brown sugar
 - 2 teaspoon ground Chinese cinnamon (This recipe is already doubled)
 - 1 tablespoon Granulated sugar (for later)
