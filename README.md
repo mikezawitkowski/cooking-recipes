@@ -9,5 +9,4 @@ This is born out of some frustrations:
 Ultimately, I'm a little embarrassed I didn't do this sooner. I can't believe it took me this long to use proper version control.
 
 
-Inspiration:
-- https://github.com/hadley/recipes
+Inspired by https://github.com/hadley/recipes
