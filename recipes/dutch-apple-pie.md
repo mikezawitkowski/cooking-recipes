@@ -24,12 +24,6 @@ Here are some options:
 
 *IMPORTANT: If you use upper crust pre-made crust, you need either double the amount of crust or one half as much filling, so adjust the receipt accordingly.*
 
-### Steps to make crust from existing pastry dough
-
-1. Follow pastry crust instructions for preparing for a single crust pie.
-1. It is best to put the finished but unbaked pie crust in the refrigerator to set in a tin until just before baking.
-
-
 
 ## Filling
 
@@ -40,8 +34,6 @@ Here are some options:
 - 1 tablespoon lemon juice
 - 1/4 teaspoon nutmeg
 
-1. In large bowl, toss filling ingredients. (You can put this into the fridge overnight)
-
 
 ## Topping
 
@@ -51,17 +43,15 @@ Here are some options:
 - 2 teaspoon ground Chinese cinnamon (This recipe is already doubled)
 - 1 tablespoon Granulated sugar (for later)
 
-### Steps to make the topping
-
-1. In medium bowl, use pastry blender or fingers to mix Topping ingredients EXCEPT for the granulated sugar.
-
-
 
 ## Steps for putting it all together
 
-1. Make pie crust if you haven't already. If frozen, follow instructions to thaw.
+1. Make pie crust if you haven't already. If frozen, follow instructions to thaw. If dough, follow instructions to make the crust.
+1. Put the finished but unbaked pie crust in its tin in the refrigerator to set.
+1. In large bowl, toss filling ingredients. (You can put this into the fridge overnight)
 1. Preheat oven to 350-375 degrees F.
 1. Pour Filling into pie plate of raw crust, mounding apples toward center.
+1. In medium bowl, use pastry blender or fingers to mix Topping ingredients EXCEPT for the granulated sugar.
 1. Sprinkle topping evenly over top of pie.
 1. Sprinkle 1 tablespoon granulated sugar on top.
 1. Bake 45 to 55 minutes or until pie crust and crumb topping are deep golden brown and filling begins to bubble.
