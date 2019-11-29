@@ -28,9 +28,16 @@ Happy Thanksgiving!
 
 ## Instructions
 
+- Put the mix of cut-up carrots/celery/onion in the base of the roasting pan
+- Remove the neck, and bag of giblets from inside the turkey
+- Put all of the giblets except the liver into a pot with 6 cups of cold water, and set to simmer until you'll need it for turkey stock later
 
-* follow the instructions below, BUT, hold back about 1/3 of the dry seasoning mix for later. (This was a mistake I made one year when I forgot to sprinkle it on top of the buttered skin before adding aluminum foil)
-* About halfway through the roasting process, when you go to remove the aluminum foil, exclaim "Oh shoot! I forgot to add all the seasoning!" Then liberally sprinkle the rest of the seasoning across the top of the turkey and put back in. This will give it an herb crust that is amazing.
+- Bend (break) the wings so that they tuck under the turkey and form a stable base. There's nothing worse than a burnt wingtip. Plus, it makes a great stable base so you don't need all those fancy bird holding contraptions.
+- Put the turkey on top of the vegetable medley
+- Follow the instructions below, BUT, hold back about 1/3 of the dry seasoning mix for later. (This was a mistake I made one year when I forgot to sprinkle it on top of the buttered skin before adding aluminum foil)
+
+- About halfway through the roasting process, when you go to remove the aluminum foil, exclaim "Oh shoot! I forgot to add all the seasoning!" Then liberally sprinkle the rest of the seasoning across the top of the turkey and put back in. This will give it an herb crust that is amazing.
+
 
 ## Sources
 
