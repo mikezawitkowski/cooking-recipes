@@ -9,7 +9,6 @@ Inspired by this [Betty Crocker recipe](!https://www.bettycrocker.com/recipes/du
 * Total Time: 2 hr 45 min
 * Servings 8
 
-
 ## Crust
 
 Finding gluten-free egg-free crusts is perhaps the hardest part of this recipe.
@@ -60,4 +59,4 @@ Here are some options:
 
 # Pictures of Past Attempts
 
-TODO 
+TODO
