@@ -1,5 +1,8 @@
 # Dutch Apple Pie (Gluten Free, Egg Free)
 
+![](../images/apple-pie/2019-11-28_17.11.33.jpg)
+
+
 Inspired by this [Betty Crocker recipe](!https://www.bettycrocker.com/recipes/dutch-apple-pie/815d821f-058d-4177-93be-e157390e947b
 ) and modified to reflect lessons learned after baking over a dozen gluten-free egg-free versions of this apple pie.
 
@@ -59,4 +62,12 @@ Here are some options:
 
 # Pictures of Past Attempts
 
-TODO
+![](../images/apple-pie/2019-11-28_14.02.40.jpg)
+
+![](../images/apple-pie/2019-11-28_14.02.50.jpg)
+
+![](../images/apple-pie/2019-11-28_14.07.51.jpg)
+
+![](../images/apple-pie/2019-11-28_17.07.24.jpg)
+
+![](../images/apple-pie/2019-11-28_17.11.31.jpg)
