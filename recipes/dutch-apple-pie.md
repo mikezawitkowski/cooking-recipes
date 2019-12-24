@@ -19,7 +19,7 @@ Here are some options:
 - Starting Thanksgiving 2019, we use Wholly Gluten Free(tm) Gluten Free 9" Pie Shell (see pic)
 - You can make crust dough from scratch. (TODO: Make a crust from scratch and link the recipe here.)
 
-![Picture of Wholly Gluten Free Gluten Free 9-inch Pie Shell circa November 2019](../images/pic_of_wholly_gluten_free_shell_2019-11-28.jpg)
+![Picture of Wholly Gluten Free Gluten Free 9-inch Pie Shell circa November 2019](../images/apple-pie/pic_of_wholly_gluten_free_shell_2019-11-28.jpg)
 
 *IMPORTANT: If you use upper crust pre-made crust, you need either double the amount of crust or one half as much filling, so adjust the receipt accordingly.*
 
