@@ -29,7 +29,7 @@ Here are some options:
 
 ## Filling
 
-- 8 cups sliced cored peeled apples, in various slice sizes ranging from 1/2 to 1 inch in thickness
+- 5-6 cups sliced cored peeled apples (about 4 apples), in various slice sizes ranging from 1/2 to 1 inch in thickness
 - 1/2 cup granulated sugar
 - 1/4 cup GF all-purpose flour (optional)
 - 2 teaspoons Chinese ground cinnamon
@@ -40,11 +40,11 @@ Here are some options:
 ## Topping
 
 - 4 tablespoons butter (firm) preferably unsalted
-- 1/2 cup GF flour
+- 1/3 cup GF flour
 - 4 tablespoons packed brown sugar
 - 2 teaspoon ground Chinese cinnamon (This recipe is already doubled)
 - 1 tablespoon Granulated sugar (for later)
-
+- 1/4 teaspoon nutmeg
 
 ## Steps for putting it all together
 
