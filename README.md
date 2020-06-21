@@ -8,6 +8,6 @@ This is born out of some frustrations:
 - I'm frustrated that recipe websites bombard me with adds as I try to remember if it was 1/2 a cup or a whole cup of flour to use in the recipe..
 - I used to trust that a recipe would stay on the internet so long as the site was there, but too many times the link breaks and I would lose where it went.
 
-Ultimately, I'm a lot embarrassed I didn't do this sooner. I can't believe it took me this long to use proper version control.
+I'm quite embarrassed I didn't do this sooner. I can't believe it took me this long to use proper version control for this use case.
 
 Inspired by https://github.com/hadley/recipes
