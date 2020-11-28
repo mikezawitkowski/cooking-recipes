@@ -15,7 +15,6 @@ Unfortunately, over the years, I've noticed that the links to the original recip
 Also, I've made a few mistakes of my own in following the original recipes that turned out really great and I want to document it for my future self.
 
 
-
 Enjoy this recipe, and remember the words of Chef John: in life... "there is nothing worse than a burnt wingtip."
 
 Happy Thanksgiving/Christmas/Holidays!
@@ -64,7 +63,6 @@ Happy Thanksgiving/Christmas/Holidays!
 - Get started one hour before the turkey must go into the oven
 - Preheat oven to 325 degrees F (165 degrees C).
 
-
 - Remove the neck, and bag of giblets from inside the turkey. Put all of the giblets except the liver into a pot with 6 cups of cold water, and set to simmer until you'll need it for turkey stock later. Simmer over medium heat for 2 hours.
 - Bend (even break) the wings so that they tuck under the turkey and form a stable base. "There's nothing worse than a burnt wingtip." Plus, it makes a great stable base so you don't need all those fancy bird holding contraptions.
 - Season cavity with about 1 tablespoon of the poultry seasoning mixture. Reserve remaining poultry seasoning mix.
@@ -80,7 +78,6 @@ Happy Thanksgiving/Christmas/Holidays!
 
 ***
 
-
 - Two hours after having started the simmering of the turkey neck etc, strain the turkey giblets from the stock, and discard giblets. There should be at least 4 cups of stock.
 - About halfway through the roasting process, for instance when you go to remove the aluminum foil, exclaim "Oh shoot! I forgot to add all the seasoning!" Then liberally sprinkle the rest of the seasoning across the top of the turkey and put back in. This will give it an herb crust that is amazing.
 - An instant-read thermometer inserted into the thickest part of the thigh, near the bone should read 165 degrees F (75 degrees C). Remove the foil during the last hour of cooking. Baste the turkey with the pan juices.
@@ -89,7 +86,7 @@ Happy Thanksgiving/Christmas/Holidays!
 
 - Remove the turkey from the oven, cover with a doubled sheet of aluminum foil, and allow to rest in a warm area for 10 to 15 minutes before slicing. Pour the pan juices, about 3 cups, into a saucepan and set aside. Skim off the turkey fat from the pan juices, reserving about 2 tablespoons.
 - Heat 2 tablespoons of the turkey fat and 1 tablespoon butter in a saucepan over medium heat. Transfer the onion from the roasting pan into the skillet. Cook and stir until the onion is browned, about 5 minutes, then stir in the flour. Continue to cook and stir for about 5 minutes more; whisk in 4 cups of the skimmed turkey stock and the reserved pan juices until smooth; skim off any foam. Stir in the balsamic vinegar. Simmer until the gravy is thickened, whisking constantly, about 10 minutes. Stir in 1 tablespoon of chopped sage, and season to taste with salt and black pepper.
--
+
 
 ## Sources
 
@@ -145,7 +142,6 @@ OK, here's how to do the herb butter recipe it right:
 - I sometimes use salted butter instead of unsalted. According to the internet, a stick of salted butter has about 1/4 tsp more of salt than a stick of unsalted butter, so I adjust the recipe accordingly.
 - The key to remember with salt is that it will impact how much salt is used in the gravy later on, as it melts and falls into the drippings in the pan.
 
-
 ## Past Attempts Documented
 
 ### Thanksgiving 2019
@@ -156,8 +152,3 @@ OK, here's how to do the herb butter recipe it right:
 ![](../images/turkey/2019-11-28_15.22.45.jpg)
 ![](../images/turkey/2019-11-28_15.22.52.jpg)
 ![](../images/turkey/2019-11-28_15.23.01.jpg)
-
-
-### Christmas 2019
-
-TODO
