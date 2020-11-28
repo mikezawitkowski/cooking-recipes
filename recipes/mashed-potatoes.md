@@ -12,7 +12,9 @@
 
 ## Instructions
 
-1. Peel off roughly 90% of the peel on the potatoes. If you notice any blackish spots deep under the layer of white, try and peel at them until they go away. ![](../images/mashed-potatoes/2019-11-28%2012.47.36.jpg)
+1. Peel off roughly 90% of the peel on the potatoes. If you notice any blackish spots deep under the layer of white, try and peel at them until they go away.
+
+![](../images/mashed-potatoes/2019-11-28%2012.47.36.jpg)
 
 2. Cut each potato into four evenly-sized pieces to allow for cooking to happen faster and more evenly.
 
