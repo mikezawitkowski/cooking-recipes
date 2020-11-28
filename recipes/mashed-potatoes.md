@@ -1,6 +1,5 @@
 # Mashed Potatoes
 
-About two large potatoes is about
 
 ## Ingredients
 
@@ -36,7 +35,7 @@ About two large potatoes is about
 - I use a fork to stab at the thickest piece of potato I can see in the pot. If the fork slips through easily to the other side, it's probably done. If the potato flakes and practically falls apart when you try this, it is DEFINITELY done and you need to get it out of the water already!
 - I like to use a potato masher in one hand, and a wooden spoon in the other to do the mashing while I let the pot roam in front of me on the stove in revolt of my machinations. I like to press the large potato pieces against the corners of the metal pot with the wooden spoon to crush them. It is very satisfying.
 - I tried using a blender to speed up the process. Doesn't work. Don't even try it.
-
+- I estimate that each person you plan to serve gets a potato, and I find that is PLENTY for a meal.
 
 ## Variations
 
