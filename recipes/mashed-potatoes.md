@@ -13,12 +13,11 @@ About two large potatoes is about
 
 ## Instructions
 
-1. Peel off roughly 90% of the peel on the potatoes. If you notice any blackish spots deep under the layer of white, try and peel at them until they go away. ![](../images/mashed-potatoes/2019-11-28%2012.47.36.jpg =100x)
+1. Peel off roughly 90% of the peel on the potatoes. If you notice any blackish spots deep under the layer of white, try and peel at them until they go away. ![](../images/mashed-potatoes/2019-11-28%2012.47.36.jpg)
 
 2. Cut each potato into four evenly-sized pieces to allow for cooking to happen faster and more evenly.
 
 ![](../images/mashed-potatoes/2019-11-28%2012.49.40.jpg)
-
 
 3. In a large heavy bottom pot, add enough cold water to cover potatoes.
 4. Boil potatoes for 20-30 minutes or until fully cooked. Test how well they are done by checking that a fork can go through it without uneven resistance.
