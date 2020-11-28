@@ -29,6 +29,7 @@
 9. If it's not creamy enough for your taste, add small amounts of equal parts butter and broth while continuing to stir until you get the consistency that your heart (or stomach) desires.
 10. Season with salt & pepper to taste
 
+![](../images/mashed-potatoes/2019-11-28%2014.30.01.jpg)
 
 ## Tips
 
