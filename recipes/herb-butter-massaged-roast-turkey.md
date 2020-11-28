@@ -147,8 +147,6 @@ OK, here's how to do the herb butter recipe it right:
 ### Thanksgiving 2019
 
 ![](../images/turkey/2019-11-28_15.22.31.jpg)
-![](../images/turkey/2019-11-28_15.22.39.jpg)
 ![](../images/turkey/2019-11-28_15.22.43.jpg)
 ![](../images/turkey/2019-11-28_15.22.45.jpg)
-![](../images/turkey/2019-11-28_15.22.52.jpg)
 ![](../images/turkey/2019-11-28_15.23.01.jpg)
