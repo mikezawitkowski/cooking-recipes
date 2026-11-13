@@ -1,12 +1,12 @@
 # Chicken Tortilla Soup
 
-In my 20s I purchased my first cookbook, "The Art of Simple Food" by Alice Waters. And one of the first receipes I cooked from it was Chicken Tortilla Soup.
+In my twenties I purchased my first cookbook, "The Art of Simple Food" by Alice Waters. And one of the first recipes I attempted out of its pages was Chicken Tortilla Soup.
 
 At the time, I knew almost nothing cooking food. This book helped get me started. I probably took Waters' words too seriously, and followed recipes too closely, afraid to deviate one bit from the commanding words of a leading culinary authority. 
 
-The good news is that eons later I'm much better at not following instructions to the letter, and my recipes are better for it. 
+The good news is that eons later I'm much better at not following instructions to the letter, and my recipes are better for it. And I still have that cookbook and refer to it from time to time, its pages marred with oil stains from those early attempts at this recipe. 
 
-Below is how I now cook this soup.
+Below is my latest approach to this soup.
 
 ## Ingredients
 
@@ -92,7 +92,7 @@ While the soup cooks for 30 minutes, let's make the tortilla strips.
 
 Some things Waters wrote that I've never tried but want to:
 
-* pickled jalapeno and red onion as a garnish
+* Pickled jalapeno and red onion as a garnish
 * Add 1/2 teaspoons chopped fresh Mexican oregano to the broth
 * The original recipe lists "shredded jicama" as a garnish but I've never figured out how to shred it, so I just dice or julienne jicama after peeling the exterior. Someday, I'll try shredding it.
 * Original recipe mentions adding sauteed chard to the soup to make it more substantial. Someday.
