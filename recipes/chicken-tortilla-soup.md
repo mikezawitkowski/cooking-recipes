@@ -6,9 +6,7 @@ At the time, I knew almost nothing cooking food. This book helped get me started
 
 The good news is that eons later I'm much better at not following instructions to the letter, and my recipes are better for it. 
 
-These changes are for baking at about 5600 feet in elevation.
-
-
+Below is how I now cook this soup.
 
 ## Ingredients
 
@@ -23,52 +21,59 @@ These changes are for baking at about 5600 feet in elevation.
 * 2 tomatoes, peeled, seeded, and diced; or 3 small cannced whole tomatoes, diced (juice included)
 * 1 dried chipotle chile, seeds removed
 * a LOT of salt, measured with your heart
-* can of black beans (optional)
-* frozen corn (optional)
+* 1 can of black beans (optional)
+* 1 c frozen corn (optional)
 
 ### Optional Garnishes
 
 * 1/2 cup chopped cilantro
 * 6 lime wedges
 * 4 ounces crumbled queso fresco or grated Monterey Jack cheese
-* 1/2 cup peeled and diced jicama
-* 1/2 cup diced radish
+* 1/2 cup peeled and diced (or julienned or shredded) jicama
+* 1/2 cup diced or julienned radish
 * 1 cubed avocado
 
-### Other Variations
-
-* can of black beans
 
 ## Instructions
 
 ### Act One
 
-* Bring the broth to a boil briefly than reduce to simmer
-* Add to broth raw chicken breast and cook at a bare simmer until chicken is fully cooked and temp is 165 degrees F. This typically takes about 20 minutes.
-* Turn off the heat, then use tongs to or a fork to transfer the breast(s) to a plate to cool.
+* Bring the **1.5-2 quarts of chicken broth** to a boil briefly than reduce to simmer.
+* To this simmering broth add **1 raw chicken breast** and cook at a bare simmer until chicken is fully cooked and temp is 165 degrees F. This typically takes about 20 minutes.
+* Turn off the heat, then use tongs to or a fork to transfer the chicken to a plate to cool.
 
 ### Act Two
 
-* If you're like me you only have one big pot, pour the broth into another container, no need to wash but use heat and paper towels to remove any moisture from where the oil is going to be added at the bottom
-* In that large heavy pot, heat 2 T of olive oil, then add 1 anaheim green pepper, seeded and thinly sliced, 1/2 medium yellow onion, thinly sliced, and garlic cloves and salt. Cook that until it is soft, about 5 minutes.
-* Next pour in the hot broth, then add 2 tomatoes, peeled seeded and diced; or 3 small canned whole tomatoes, diced (juice included); add 1 dried chipotle chile, seeds removed; add salt
-* (Optional: If you want to add frozen corn kernels, now is a good time for that)
+* If you're like me you only have one big pot, pour the broth into another container, no need to wash but use heat and paper towels to remove any moisture from where the oil is going to be added at the bottom. You can also just turn on the heat and let it sit for a minute until the bottom of the surface dries.
+* In that same large heavy pot, heat **2 T of olive oil**, then add **1 anaheim green pepper, seeded and thinly sliced**, **add 1/2 medium yellow onion, thinly sliced**, and add **2 garlic cloves thinly sliced**, and **salt**. Cook that until it is soft, about 5 minutes.
+* Next pour in the hot broth, then add **2 tomatoes, peeled seeded and diced**; or **3 small canned whole tomatoes, diced (juice included)**; add **1 dried chipotle chile, seeds removed**; add **salt**
+* (Optional: If you want to add **frozen corn kernels**, now is a good time for that)
 * Bring the mixture to a boil, and then turn down to a simmer and cook for 30 minutes
 
 ### Act Three
 
 While the soup cooks for 30 minutes, let's make the tortilla strips.
 
-* While the soup simmers, in an 8" heavy bottom skillet over medium heat, pour in 1/2 c peanut or vegetable oil
-* Add 4 tortillas cut into strips
+* While the soup simmers, in an 8" heavy bottom skillet over medium heat, pour in **1/2 c peanut or vegetable oil**
+* Add **4 tortillas** cut into strips
 * fry in small batches until golden brown and crispy
-* let rest on paper towels and season with salt
+* let rest on paper towels and season with **salt**
 
 
 ### Act Four
 
 * At about 25 minutes into the simmering of the sopu, the chicken should be cool enough, so while the rest cooks, remove bones and skin, then shred meat into bite sized pieces for later
-* This is a good time to prep your garnishes
+* This is a good time to prep and cut your garnishes while waiting for the 
+* When the clock strikes 30 minutes on the soup, take a look and decide if the consistency is to your liking. Sometimes at this point the soup seems too oily so I go the extra mile by pouring most of it into a fat separator and/or through cheese cloth, adding back the ingredients to the cleaner broth after this process.
+* Add the shredded chicken meat to the pot, heat through, but do not boil. Taste for salt and adjust as needed. Remember that your tortilla strips have been salted and you have garnishes like cheese that may change the saltiness so be mindful of that.
+* Serve the soup with the crispy tortilla strips and little bowls of the following garnishes:
+	* **1/2 cup chopped cilantro**
+	*** 6 lime wedges**
+	* **About 4 ounces crumbled queso fresco or grated Monterey Jack cheese**
+	* **1/2 cup peeled and diced jicama**
+	* **1/2 cup julienned radish**
+	* **1 cubed avocado**
+
 
 
 ## Tips, Tricks, Variations
@@ -89,6 +94,8 @@ Some things Waters wrote that I've never tried but want to:
 
 * pickled jalapeno and red onion as a garnish
 * Add 1/2 teaspoons chopped fresh Mexican oregano to the broth
+* The original recipe lists "shredded jicama" as a garnish but I've never figured out how to shred it, so I just dice or julienne jicama after peeling the exterior. Someday, I'll try shredding it.
+* Original recipe mentions adding sauteed chard to the soup to make it more substantial. Someday.
 
 Other places I saw things I want to try here:
 
