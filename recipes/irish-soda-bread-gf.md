@@ -7,19 +7,18 @@ These changes are for baking at about 5600 feet in elevation.
 
 ## Ingredients
 
-## Wet
+### Wet
 
 * 1 ⅔ cup buttermilk
 * 1 egg, beaten
 * 4 Tablespoons butter, cold and cut into cubes
 
-## Dry
+### Dry
 
 * 4 cup gluten free flour (with xanthan gum like 1:1 Bob's or King Arthur)
 * 4 Tablespoons granulated sugar
 * 1 ½ teaspoon baking soda
 * 1 teaspoon salt
-
 * 1 cup raisins or currants (optional)
 
 ## Instructions
