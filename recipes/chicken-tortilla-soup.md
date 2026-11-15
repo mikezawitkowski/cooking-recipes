@@ -1,5 +1,8 @@
 # Chicken Tortilla Soup
 
+Prep and cook time takes about 2 hours unless you do the fast version in the notes that takes about 40 minutes. 
+
+
 In my twenties I purchased my first cookbook, "The Art of Simple Food" by Alice Waters. And one of the first recipes I attempted out of its pages was Chicken Tortilla Soup.
 
 At the time, I knew almost nothing cooking food. This book helped get me started. I probably took Waters' words too seriously, and followed recipes too closely, afraid to deviate one bit from the commanding words of a leading culinary authority. 
@@ -87,6 +90,8 @@ While the soup cooks for 30 minutes, let's make the tortilla strips.
 * You can add black beans to make a more substantial soup. I've added them after cooking separately, because it doesn't muck up the broth as much as if you were to add them in the hot broth and cook them
 * I've extended the soup on future days by adding additional ingredients and broth
 * Almost every time I burn my fingers shredding the chicken because I don't wait long enough for it to cool. Try to wait until the last five minutes of the 30 minute soup cook time to add it and save yourself the literal pain.
+* Once time in Nov 2026 I thought I had enough leftovers from the prior night of this soup, but did not. So. I was in a hurry and tried some different things to get there faster. I tend to pre-dice boneless skinless chicken breasts and freeze them in flat bags that are quick to thaw, so I dropped one of those in warm water. Then I brought 32 oz of chicken broth and 32 oz of vegetable broth mixed together to a boil in a pot. While that happened, I diced half a yellow onion and red pepper and one elephant garlic clove and threw it into some olive oil in a skillet on medium to saute for about 4 minutes. When the broth reached boiling I turned it down and emptied the now-thawed chicken with the onion/pepper/garlic mix into the pot together to simmer while I cut up a couple handfuls of campari small vine tomatoes and one handful of grape tomatoes into smaller than bite sized pieces and threw them into the pot. The whole thing simmered for maybe 20 minutes when I realized the chicken was done. I tried to get away with serving tortilla chips out of the bag instead of my fried tortilla stripped and got laughed back to the kitchen to get that done right and quick. We added sliced radishes, grated cheddar, and avocado and found the vegetable broth to be less traditional but richer in flavor, and also the overall soup had less of the oily sheen that looks like a broken sauce. 
+
 
 ## Future things to try
 
@@ -94,7 +99,7 @@ Some things Waters wrote that I've never tried but want to:
 
 * Pickled jalapeno and red onion as a garnish
 * Add 1/2 teaspoons chopped fresh Mexican oregano to the broth
-* The original recipe lists "shredded jicama" as a garnish but I've never figured out how to shred it, so I just dice or julienne jicama after peeling the exterior. Someday, I'll try shredding it.
+* The original recipe lists "shredded jicama" as a garnish but I've never figured out how to shred it, so I just dice or julienne jicama after peeling the exterior. Someday, I'll try shredding it, probably with a cheese grater.
 * Original recipe mentions adding sauteed chard to the soup to make it more substantial. Someday.
 
 Other places I saw things I want to try here:
